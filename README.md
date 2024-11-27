@@ -95,8 +95,13 @@ A **User Management System** built with the **MERN Stack (MongoDB, Express, Reac
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](crud.png)
+![Home Page](images/crud1.png)
 
+### Add and Update User Form
+![Add User Form](images/crud3.png)
+
+### User List
+![User List](images/crud2.png)
 
 ## 🛠️ Tools Used
 
