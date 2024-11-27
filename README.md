@@ -94,7 +94,10 @@ A **User Management System** built with the **MERN Stack (MongoDB, Express, Reac
 
 ## 📸 Screenshots
 
-<img src="">
+### Home Page
+![Home Page](crud.png)
+
+
 ## 🛠️ Tools Used
 
 - **VS Code**: Development Environment
